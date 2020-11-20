@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/hyungook-portfolio/static/css/main.d7f3d50f.chunk.css",
-    "main.js": "/hyungook-portfolio/static/js/main.ff7cb1e9.chunk.js",
-    "main.js.map": "/hyungook-portfolio/static/js/main.ff7cb1e9.chunk.js.map",
+    "main.js": "/hyungook-portfolio/static/js/main.f4b50889.chunk.js",
+    "main.js.map": "/hyungook-portfolio/static/js/main.f4b50889.chunk.js.map",
     "runtime-main.js": "/hyungook-portfolio/static/js/runtime-main.9b358e35.js",
     "runtime-main.js.map": "/hyungook-portfolio/static/js/runtime-main.9b358e35.js.map",
-    "static/js/2.12c26062.chunk.js": "/hyungook-portfolio/static/js/2.12c26062.chunk.js",
-    "static/js/2.12c26062.chunk.js.map": "/hyungook-portfolio/static/js/2.12c26062.chunk.js.map",
+    "static/js/2.c2bff521.chunk.js": "/hyungook-portfolio/static/js/2.c2bff521.chunk.js",
+    "static/js/2.c2bff521.chunk.js.map": "/hyungook-portfolio/static/js/2.c2bff521.chunk.js.map",
     "index.html": "/hyungook-portfolio/index.html",
     "static/css/main.d7f3d50f.chunk.css.map": "/hyungook-portfolio/static/css/main.d7f3d50f.chunk.css.map",
-    "static/js/2.12c26062.chunk.js.LICENSE.txt": "/hyungook-portfolio/static/js/2.12c26062.chunk.js.LICENSE.txt"
+    "static/js/2.c2bff521.chunk.js.LICENSE.txt": "/hyungook-portfolio/static/js/2.c2bff521.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b358e35.js",
-    "static/js/2.12c26062.chunk.js",
+    "static/js/2.c2bff521.chunk.js",
     "static/css/main.d7f3d50f.chunk.css",
-    "static/js/main.ff7cb1e9.chunk.js"
+    "static/js/main.f4b50889.chunk.js"
   ]
 }
