@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hyungooks-story/static/css/main.7ec8adae.chunk.css",
-    "main.js": "/hyungooks-story/static/js/main.3f0583a6.chunk.js",
-    "main.js.map": "/hyungooks-story/static/js/main.3f0583a6.chunk.js.map",
+    "main.js": "/hyungooks-story/static/js/main.b55282e5.chunk.js",
+    "main.js.map": "/hyungooks-story/static/js/main.b55282e5.chunk.js.map",
     "runtime-main.js": "/hyungooks-story/static/js/runtime-main.35ab440a.js",
     "runtime-main.js.map": "/hyungooks-story/static/js/runtime-main.35ab440a.js.map",
     "static/js/2.2ba400a9.chunk.js": "/hyungooks-story/static/js/2.2ba400a9.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.35ab440a.js",
     "static/js/2.2ba400a9.chunk.js",
     "static/css/main.7ec8adae.chunk.css",
-    "static/js/main.3f0583a6.chunk.js"
+    "static/js/main.b55282e5.chunk.js"
   ]
 }
